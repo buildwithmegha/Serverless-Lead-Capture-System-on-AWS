@@ -112,6 +112,11 @@ project-root/
 ![SES](./screenshots/ses-configuration.png)
 
 ---
+## SES Configuration
+
+![cloudWatch](./screenshots/cloud-watch.png)
+
+---
 
 ## Working Application Demo
 
