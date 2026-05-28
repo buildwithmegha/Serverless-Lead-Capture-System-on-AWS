@@ -112,7 +112,7 @@ project-root/
 ![SES](./screenshots/ses-configuration.png)
 
 ---
-## SES Configuration
+## CloudWatch Logs
 
 ![cloudWatch](./screenshots/cloud-watch.png)
 
